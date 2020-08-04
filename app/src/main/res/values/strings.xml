@@ -1,7 +1,9 @@
 <resources>
     <string name="app_name">Intent</string>
     <string name="error_intent">Ação não suportada</string>
-    <string name="uri_nelson_blog">htt://wwww.nglauber.com.br</string>
+    <string name="uri_nelson_blog">http://wwww.nglauber.com.br</string>
+    <string name="custom_action2">Ação customizada 2</string>
+    <string name="custom_action1">Ação customizada 1</string>
     <string-array name="intent_actions">
         <item>Browser</item>
         <item>Realizando uma chamada</item>
